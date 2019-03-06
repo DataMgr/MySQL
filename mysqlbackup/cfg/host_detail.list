@@ -1,0 +1,6 @@
+[host]
+connList=['db1', 'db2']
+
+[information]
+db1={'ip':'172.24.121.61','port':'22','user':'auto','password':'auto'} 
+db2={'ip':'172.24.121.62','port':'22','user':'auto','password':'auto'}
